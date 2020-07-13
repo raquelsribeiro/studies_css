@@ -4,7 +4,9 @@
   <p>Nesse projeto aprendi como atribuir algumas propriedade apenas uma vez, em momentos e cards direfentes.    Com isso novas tags e propriedades em HTML e CSS. </p>
    <img src="./img/boxborder.PNG" width="500">
   <p>
-    Referente - Canal: Online Tutorials : 
+    Referencia - Canal: Online Tutorials : 
+  </p>
+  <p>
     CSS Skewed Border - https://www.youtube.com/watch?v=-1U62fdmCk4&list=LLg3JmVOYDTF8jVdc9CJ60Yg&index=7&t=0s
   </p>
 
@@ -12,7 +14,9 @@
   <p>E neste projeto aprendi novos efeitos que as propriedades do CSS permite de fazer. E também como fazer rota de classes, utilizando o HTML e CSS.</p>
     <img src="./img/cardhover.PNG" width="500">
   <p> 
-    Referente - Canal: Online Tutorials : 
+    Referencia - Canal: Online Tutorials : 
+  </p>
+  <p>
     CSS Card Hover Effects - https://www.youtube.com/watch?v=EZqhWu8GJ6U&list=LLg3JmVOYDTF8jVdc9CJ60Yg&index=5
   </p>
 
@@ -20,8 +24,12 @@
   <p>Neste projeto fiz um Post Hover com uma breve descrição em lorem e imagem principal que pode mudar de acordo com o tema de outros sites e diversos estilos. Foi utilizado HTML e CSS. </p>
     <img src="./img/posthover.PNG" width="500">
   <p>
-    Referente - Canal: Online Tutorials : 
+    Referencia - Canal: Online Tutorials :
+  </p>
+  <p> 
     CSS Card Hover Effects - https://www.youtube.com/watch?v=9pXGz6Dv3q0
+  </p>
+  <p>
     How To Make It Responsive | CSS Card Hover Effects - https://www.youtube.com/watch?v=L4jbuKFJXaw
   </p>
 
