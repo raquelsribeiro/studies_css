@@ -35,7 +35,6 @@
 
   <h4>Creating Animated Sliding Menu Indicator</h4>
   <p>Neste projeto aprendi a fazer um menu deslizante na versão clara e escura. Utilizando HTML, CSS e JavaScript.</p>
-    <img src="./img/menuindicator.PNG" width="500">
     <img src="./img/menuindicatordark.PNG" width="500">
    <p>
     Referencia - Canal: Online Tutorials :
