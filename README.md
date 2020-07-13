@@ -33,4 +33,15 @@
     How To Make It Responsive | CSS Card Hover Effects - https://www.youtube.com/watch?v=L4jbuKFJXaw
   </p>
 
+  <h4>Creating Animated Sliding Menu Indicator</h4>
+  <p>Neste projeto aprendi a fazer um menu deslizante na versão clara e escura. Utilizando HTML, CSS e JavaScript.</p>
+    <img src="./img/menuindicator.PNG" width="500">
+    <img src="./img/menuindicatordark.PNG" width="500">
+   <p>
+    Referencia - Canal: Online Tutorials :
+  </p>
+  <p> 
+    Creating Animated Sliding Menu Indicator - https://www.youtube.com/watch?v=nGdwRP9ZsA4
+  </p>
+
 </div>
