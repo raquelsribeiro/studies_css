@@ -1,5 +1,4 @@
 <h1>Projects CSS</h1>
-<img src="./img/logo_css.png" width="500">
 <div>
     <h4>CSS Creative Box Border Hover Effects</h4>
    <p>Nesse projeto aprendi como atribuir algumas propriedade apenas uma vez, em momentos e cards direfentes. Com isso novas tags e propriedades em HTML e CSS. </p>
