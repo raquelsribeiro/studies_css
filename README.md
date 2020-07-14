@@ -43,4 +43,15 @@
     Creating Animated Sliding Menu Indicator - https://www.youtube.com/watch?v=nGdwRP9ZsA4
   </p>
 
+  <h4>Creative Page Scroll Progress Bar with Number Percentage</h4>
+  <p>Neste projeto apredi como fazer o Javascript calcular em porcentagem de acordo com a rolagem da pagina, coloquei também a barra de rolagem em neon, que aprendi fazer no CSS. Foi utilizado HTML, CSS e JavaScript.
+</p>
+    <img src="./img/pagescroll.PNG" width="500">
+ <p>
+    Referencia - Canal: Online Tutorials :
+  </p>
+  <p> 
+    Creative Page Scroll Progress Bar with Number Percentage - https://www.youtube.com/watch?v=cL_dytFgasA&t=37s
+  </p>
+  
 </div>
