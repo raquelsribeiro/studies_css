@@ -54,4 +54,25 @@
     Creative Page Scroll Progress Bar with Number Percentage - https://www.youtube.com/watch?v=cL_dytFgasA&t=37s
   </p>
 
+  <h4>CSS Responsive Box Hover Effects</h4>
+  <p>Neste projeto aprendi novos efeitos utilizando CSS de forma unânime com todos os cards e também a deixar a página responsiva. Foi utilizado HTML e CSS. 
+  </p>
+      <img src= "./img/box.PNG" width="500">
+  <p>
+    Referencia - Canal: Online Tutorials :
+  </p>
+  <p> 
+     CSS Responsive Card Hover Effects - https://www.youtube.com/watch?v=8b2mTq0Xrtw&list=LL&index=11&t=0s
+  </p>
+
+  <h4>RPG Styles Card with Hover Effect</h4>
+  <p>Nesse projeto é um exeplo de website de post de lugares turisticos, no meu exemplo coloquei São Paulo e um pouco das suas caracteristicas. Foi utilizado HTML e CSS.  
+ </p>
+    <img src="/img/stylecardsp.PNG" width="500">
+  <p>
+    Referencia - Canal: Red Stapler :
+  </p>
+  <p> 
+    RPG Styles Card with Hover Effect - https://www.youtube.com/watch?v=cwC1qdPWBKo
+  </p>
 </div>
