@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pepsi Website Landing Page</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+  </head>
+  <body>
+    <section class="sec">
+      <header>
+        <a href="#"><img src="./img/logo.png" alt="Logo" class="logo" /></a>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Products</a></li>
+          <li><a href="#">What's New</a></li>
+          <li><a href="#">Newletter</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </header>
+      <div class="content">
+          <div class="textBox">
+              <h2>That's What<br><span>I like</span></span></h2>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi veritatis itaque ea, soluta tempora quis sapiente non magni cupiditate vitae et illum animi natus, eius, iste in similique voluptas quidem.</p>
+              <a href="#">View All Products</a>
+          </div>
+          <div class="imgBox">
+              <img src="./img/pepsi001.png" class="pepsi">
+          </div>
+      </div>
+      <ul class="thumb">
+          <li><img src="./img/pepsi001.png" onclick="imgSlider('./img/pepsi001.png');changeBgColor('#0062be')"></li>
+          <li><img src="./img/pepsi002.png" onclick="imgSlider('./img/pepsi002.png');changeBgColor('#e60c2c')"></li>
+          <li><img src="./img/pepsi003.png" onclick="imgSlider('./img/pepsi003.png');changeBgColor('#1e1e1e')"></li>
+      </ul>
+      <ul class="sci">
+          <li><a href="#"><img src="./img/facebook.png"></a></li>
+          <li><a href="#"><img src="./img/twitter.png"></a></li>
+          <li><a href="#"><img src="./img/instagram.png"></a></li>
+      </ul>
+    </section>
+
+    <script type="text/javascript" src="index.js"></script>
+  </body>
+</html>
