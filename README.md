@@ -66,7 +66,7 @@
   </p>
 
   <h4>RPG Styles Card with Hover Effect</h4>
-  <p>Nesse projeto é um exeplo de website de post de lugares turisticos, no meu exemplo coloquei São Paulo e um pouco das suas caracteristicas. Foi utilizado HTML e CSS.  
+  <p>Nesse projeto é um exemplo de website de post de lugares turisticos, no meu exemplo coloquei São Paulo e um pouco das suas caracteristicas. Foi utilizado HTML e CSS.  
  </p>
     <img src="/img/stylecardsp.PNG" width="500">
   <p>
@@ -74,5 +74,20 @@
   </p>
   <p> 
     RPG Styles Card with Hover Effect - https://www.youtube.com/watch?v=cwC1qdPWBKo
+  </p>
+</div>
+
+<h4>Creative Landing Page Design</h4>
+  <p>Esse projeto é um website da pepsi que mostra varios sabores diferentes e de acordo com os sabores o layout muda também. Eu aprendi novos efeitos e como manipular o javascript junto com o HTML.
+  Foi utilizado HTML, CSS e JavaScript. 
+ </p>
+    <img src="/img/pepsiblue.PNG" width="500">
+    <img src="/img/pepsired.PNG" width="500">
+    <img src="/img/pepsiblack.PNG" width="500">
+  <p>
+    Referencia - Canal : Online Tutorials :
+  </p>
+  <p> 
+    Creative Landing Page Design - https://www.youtube.com/watch?v=s_z5laE4KTw
   </p>
 </div>
