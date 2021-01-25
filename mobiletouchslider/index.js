@@ -1,6 +1,6 @@
 console.log("teste");
 
-var swiper = new Swiper(".swiper-container", {
+let swiper = new Swiper(".swiper-container", {
   effect: "coverflow",
   grabCursor: true,
   centeredSlides: true,
